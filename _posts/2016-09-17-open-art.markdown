@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Open Art"
+date:   2016-09-17
+categories: jekyll update
+---
+How time flies.
+
+Stages of computational fluid dynamics:
+
+![Stages of Computational Fluid Dynamics](/images/stages123.bmp "CFD Stages")
+

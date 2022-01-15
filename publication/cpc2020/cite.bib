@@ -1,0 +1,17 @@
+@article{zhang2020a,
+  title = {Sdfibm: A Signed Distance Field Based Discrete Forcing Immersed Boundary Method in {{OpenFOAM}}},
+  shorttitle = {Sdfibm},
+  author = {Zhang, Chenguang},
+  year = {2020},
+  month = oct,
+  journal = {Computer Physics Communications},
+  volume = {255},
+  pages = {107370},
+  issn = {0010-4655},
+  doi = {10.1016/j.cpc.2020.107370},
+  abstract = {In this paper we present the algorithm and implementation of an open-source immersed boundary code sdfibm, which is based on OpenFOAM v6 and written in C++. The immersed boundary method (``ibm'' of the name) treats the velocity field as the volume average of fluid and solid velocities, and applies the volume-average discrete forcing to account for the fluid\textendash solid interaction. The signed distance field (``sdf'' of the name) representation of the solid shape, together with the proposed pyramid decomposition method, allow accurate calculations of the volume fraction field created by solids overlapping with an arbitrary unstructured fluid mesh. SDF removes the need of intersection test between the solid and fluid mesh, or the discretization and re-sampling of the solid shape. Users can freely combine different components (shapes, materials, and motion constraints) into new solids within the plain-text input file, and implement new shapes and motion constrains easily. sdfibm is an efficient and robust tool for exploring complex fluid\textendash solid interactions in a fully-resolved sense, and can generate data for closure models in upscaling procedures. Program summary Program title: sdfibm CPC Library link to program files: http://dx.doi.org/10.17632/hcvtddjngv.1 Licensing provisions: GNU General Public License 3 Programming language: C++ Nature of problem: Fluid\textendash structure interaction and particle-laden multi-phase flow problems, with the structure/solid phase being rigid bodies. Examples range from classic flows passing stationary cylinder or sphere, to the sedimentation of a cluster of particles. Thanks to the fully-resolved direct numerical simulation, detail data of the flow field and particle motion are obtained as part of the solution, which can be used to analyze the dynamic process and to build coarse-grain models for industrial scale simulations. Solution method: The solution method can be divided into the fluid part and the solid part. For the fluid part, the Navier\textendash Stokes equations are solved via the projection method. Because of the collocated arrangement of variables, a mesh face based flux field is used to enforce the divergence-free condition. The solid part follows Newtonian dynamics and is solved using linear multi-step method. The coupling of the two is via volume-average discrete forcing, which is an immersed boundary formulation suitable for rigid bodies. To find the forcing, the solid volume fraction at each fluid mesh cell is needed, which is calculated accurately on arbitrary unstructured meshes using signed distance field.},
+  copyright = {All rights reserved},
+  langid = {english},
+  keywords = {Immersed boundary method,OpenFOAM,Signed distance field}
+}
+

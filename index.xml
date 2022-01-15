@@ -33,15 +33,16 @@
     </item>
     
     <item>
-      <title>Welcome!</title>
-      <link>https://chenguangzhang.github.io/post/getting-started/</link>
+      <title>Template</title>
+      <link>https://chenguangzhang.github.io/post/template/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenguangzhang.github.io/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <guid>https://chenguangzhang.github.io/post/template/</guid>
+      <description>&lt;h1 id=&#34;header1&#34;&gt;Header1&lt;/h1&gt;
 &lt;p&gt;Test of mathematical equations
 $$
 1,e^{-\sin (1)},e^{-\sin \left(e^{-\sin (1)}\right)},e^{-\sin \left(e^{-\sin \left(e^{-\sin (1)}\right)}\right)}
 $$&lt;/p&gt;
+&lt;p&gt;A role model 
 
 
 
@@ -56,12 +57,23 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+&lt;figure  id=&#34;figure-a-great-role-model-for-all-fluid-dynamicists&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/G_I_Taylor.jpg/200px-G_I_Taylor.jpg&#34; alt=&#34;GI Taylor&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+      A great role model for all fluid dynamicists.
     &lt;/figcaption&gt;&lt;/figure&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我的诗歌</title>
+      <link>https://chenguangzhang.github.io/post/poems/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chenguangzhang.github.io/post/poems/</guid>
+      <description>&lt;h1 id=&#34;七月夜中作&#34;&gt;七月夜中作&lt;/h1&gt;
 </description>
     </item>
     
@@ -226,10 +238,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://chenguangzhang.github.io/publication/example/</link>
+      <title>sdfibm: a signed distance field based discrete forcing immersed boundary method in OpenFOAM</title>
+      <link>https://chenguangzhang.github.io/publication/cpc2020/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://chenguangzhang.github.io/publication/example/</guid>
+      <guid>https://chenguangzhang.github.io/publication/cpc2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -245,10 +257,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper II</title>
-      <link>https://chenguangzhang.github.io/publication/example2/</link>
+      <title>Study of a toroidal-helical pipe as an innovative static mixer in laminar flows</title>
+      <link>https://chenguangzhang.github.io/publication/cej2019/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://chenguangzhang.github.io/publication/example2/</guid>
+      <guid>https://chenguangzhang.github.io/publication/cej2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

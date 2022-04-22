@@ -33,16 +33,17 @@
     </item>
     
     <item>
-      <title>Template</title>
+      <title>Chenguang&#39;s 3D artwork</title>
       <link>https://chenguangzhang.github.io/post/template/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://chenguangzhang.github.io/post/template/</guid>
-      <description>&lt;h1 id=&#34;header1&#34;&gt;Header1&lt;/h1&gt;
-&lt;p&gt;Test of mathematical equations
-$$
-1,e^{-\sin (1)},e^{-\sin \left(e^{-\sin (1)}\right)},e^{-\sin \left(e^{-\sin \left(e^{-\sin (1)}\right)}\right)}
-$$&lt;/p&gt;
-&lt;p&gt;A role model 
+      <description>&lt;p&gt;I have been a fan of 3D art since my undergraduate, which actually was not long after my exposure to a computer. The fact that you can create a realistic world using computer X
+imagination fascinated me. My journey started with Autodesk 3Ds MAX, then to MAYA, SketchUp, and, very briefly, ZBrush. At that time, 3Ds MAX was still in version 5 (I think?), SketchUp still belonged to Google, and ZBrush was new. How time flies!&lt;/p&gt;
+&lt;p&gt;Anyway, I eventually dived into academia and basically gave up my dream of art, though I create something from time to time. I figure it is not a bad idea to note down my creations here, as a lifelog. Also, maybe I could find academic friends who happen to share my interest.&lt;/p&gt;
+&lt;p&gt;Now, I am mostly a Blender person, and the image you are seeing here was created using Blender, which is a brilliant piece of software by the way.&lt;/p&gt;
+&lt;p&gt;Blender can render great illustrations for academic publications as well, so it is relevant even if you are not an art person. More on that later.&lt;/p&gt;
+&lt;h2 id=&#34;abstract-procedure-art&#34;&gt;Abstract procedure art&lt;/h2&gt;
+&lt;p&gt;
 
 
 
@@ -58,13 +59,55 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-a-great-role-model-for-all-fluid-dynamicists&#34;&gt;
+&lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/G_I_Taylor.jpg/200px-G_I_Taylor.jpg&#34; alt=&#34;GI Taylor&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      A great role model for all fluid dynamicists.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-.&lt;/p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://chenguangzhang.github.io/abstract_light.png&#34; alt=&#34;Abstract hill&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;physical-simulation-and-light&#34;&gt;Physical simulation and light&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://chenguangzhang.github.io/cloth_on_sphere.png&#34; alt=&#34;cloth on sphere&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;still-life-with-different-materials&#34;&gt;Still life with different materials&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://chenguangzhang.github.io/still_life.png&#34; alt=&#34;still life&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
